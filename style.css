@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+
+body {
+    width: 70%;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Syne Mono', monospace;;
+    color: white;
+    background-color: blue;
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+}
+
+img {
+    width: 15%;
+    height: 15%;
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    color: #4472C4;
+    background-color: black;
+    width: fit-content;
+}
+
+ol li {
+    background-color: #00FF00;
+    width: fit-content;
+}
+
+ul {
+    color: red;
+}
+
+h3 {
+    color: #FFC000;
+    background-color: #800080;
+    width: fit-content;
+}
+
+h2, p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-indent: 30px;
+}
+
+li {
+    font-family: "Calibria Math";
+}
+
+h3 {
+    font-family: Broadway;
+}
